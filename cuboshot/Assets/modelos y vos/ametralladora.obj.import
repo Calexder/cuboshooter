@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ametralladora.obj-01bdddfbde6357a7b88874f5d2f46b42.mesh"
+
+[deps]
+
+files=[ "res://.import/ametralladora.obj-01bdddfbde6357a7b88874f5d2f46b42.mesh" ]
+
+source_file="res://Assets/modelos y vos/ametralladora.obj"
+dest_files=[ "res://.import/ametralladora.obj-01bdddfbde6357a7b88874f5d2f46b42.mesh", "res://.import/ametralladora.obj-01bdddfbde6357a7b88874f5d2f46b42.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cuadri.obj-ba4eb590cabb0353e343622a4aa229eb.mesh"
+
+[deps]
+
+files=[ "res://.import/cuadri.obj-ba4eb590cabb0353e343622a4aa229eb.mesh" ]
+
+source_file="res://Assets/modelos y vos/cuadri.obj"
+dest_files=[ "res://.import/cuadri.obj-ba4eb590cabb0353e343622a4aa229eb.mesh", "res://.import/cuadri.obj-ba4eb590cabb0353e343622a4aa229eb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

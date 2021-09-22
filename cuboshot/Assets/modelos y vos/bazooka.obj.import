@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bazooka.obj-e25569409db6832ccdbf03dedb73a957.mesh"
+
+[deps]
+
+files=[ "res://.import/bazooka.obj-e25569409db6832ccdbf03dedb73a957.mesh" ]
+
+source_file="res://Assets/modelos y vos/bazooka.obj"
+dest_files=[ "res://.import/bazooka.obj-e25569409db6832ccdbf03dedb73a957.mesh", "res://.import/bazooka.obj-e25569409db6832ccdbf03dedb73a957.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

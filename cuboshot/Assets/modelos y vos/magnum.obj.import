@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/magnum.obj-8440cf5ae0c3ece6947b63083cbed6a2.mesh"
+
+[deps]
+
+files=[ "res://.import/magnum.obj-8440cf5ae0c3ece6947b63083cbed6a2.mesh" ]
+
+source_file="res://Assets/modelos y vos/magnum.obj"
+dest_files=[ "res://.import/magnum.obj-8440cf5ae0c3ece6947b63083cbed6a2.mesh", "res://.import/magnum.obj-8440cf5ae0c3ece6947b63083cbed6a2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

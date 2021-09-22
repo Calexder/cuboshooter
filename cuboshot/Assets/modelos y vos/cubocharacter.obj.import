@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cubocharacter.obj-04c371f7508c6f52a84c1c88b1612cb5.mesh"
+
+[deps]
+
+files=[ "res://.import/cubocharacter.obj-04c371f7508c6f52a84c1c88b1612cb5.mesh" ]
+
+source_file="res://Assets/modelos y vos/cubocharacter.obj"
+dest_files=[ "res://.import/cubocharacter.obj-04c371f7508c6f52a84c1c88b1612cb5.mesh", "res://.import/cubocharacter.obj-04c371f7508c6f52a84c1c88b1612cb5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 0.25, 0.25, 0.25 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
